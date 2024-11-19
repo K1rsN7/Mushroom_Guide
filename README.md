@@ -1,5 +1,16 @@
 <div align='center'>
   <h1>Pet project for recognizing edible mushrooms</h1>
+  <div align="center">
+  <a href="https://github.com/K1rsN7/Mushroom_Guide/issues">
+		<img src="https://img.shields.io/github/issues/K1rsN7/Mushroom_Guide?color=4A73DF&labelColor=1C2325&style=for-the-badge">
+	</a>
+	<a href="https://github.com/K1rsN7/Mushroom_Guide/stargazers">
+		<img src="https://img.shields.io/github/stars/K1rsN7/Mushroom_Guide?color=4A73DF&labelColor=1C2325&style=for-the-badge">
+	</a>
+	<a href="./LICENSE">
+		<img src="https://img.shields.io/github/license/K1rsN7/Mushroom_Guide?color=4A73DF&labelColor=1C2325&style=for-the-badge">
+	</a>
+</div>
   <div align='left'>
     <i><b>The meaning of the project:</b></i><a> To learn how to work with the TensorFlow framework and Keras, this project was invented.</a>
     <br>
