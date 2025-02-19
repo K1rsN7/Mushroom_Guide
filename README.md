@@ -1,3 +1,4 @@
+<img src="./banner.png">
 <div align='center'>
   <h1>Pet project for recognizing edible mushrooms</h1>
   <div align="center">
